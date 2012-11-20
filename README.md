@@ -1,5 +1,7 @@
 # Forge Gitignore Plugin
 
+[![Build Status](https://buildhive.cloudbees.com/job/thomashug/job/plugin-gitignore/badge/icon)](https://buildhive.cloudbees.com/job/thomashug/job/plugin-gitignore/)
+
 This plugin is based on the fabulous [gibo](https://github.com/simonwhitaker/gitignore-boilerplates) 
 shell script from Simon Whitaker. It uses the Github Gitignore template repository
 to dynamically build a .gitignore file for your project.
